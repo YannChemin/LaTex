@@ -1,0 +1,82 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Copernicus(2016)]{grassland2015}
+Copernicus.
+\newblock Grassland map for europe in 2015.
+\newblock Map, 2016.
+\newblock URL
+  \url{https://land.copernicus.eu/pan-european/high-resolution-layers/grassland/status-maps/2015}.
+
+\bibitem[Copernicus(2018{\natexlab{a}})]{ftyreport2018}
+Copernicus.
+\newblock Copernicus land monitoring service – high resolution layer forest
+  type: Product specifications document, 2018{\natexlab{a}}.
+\newblock URL
+  \url{https://land.copernicus.eu/pan-european/high-resolution-layers/forests/forest-type-1/status-maps/2015?tab=metadata}.
+
+\bibitem[Copernicus(2018{\natexlab{b}})]{grasslandreport2018}
+Copernicus.
+\newblock Copernicus land monitoring service – high resolution layer
+  grassland: Product specifications document, 2018{\natexlab{b}}.
+\newblock URL
+  \url{https://land.copernicus.eu/user-corner/technical-library/clms_hrl_gra_validation_report_sc03_1_3.pdf}.
+
+\bibitem[Copernicus(2018{\natexlab{c}})]{impreport2018}
+Copernicus.
+\newblock Copernicus land monitoring service – high resolution layer
+  imperviousness: Product specifications document, 2018{\natexlab{c}}.
+\newblock URL
+  \url{https://land.copernicus.eu/pan-european/high-resolution-layers/imperviousness/status-maps/2015?tab=metadata}.
+
+\bibitem[Copernicus(2018{\natexlab{d}})]{tcdreport2018}
+Copernicus.
+\newblock Copernicus land monitoring service – high resolution layer tree
+  cover density: Product specifications document, 2018{\natexlab{d}}.
+\newblock URL
+  \url{https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/2015?tab=metadata}.
+
+\bibitem[Copernicus(2018{\natexlab{e}})]{wwareport2018}
+Copernicus.
+\newblock Copernicus land monitoring service – high resolution layer water \&
+  wet areas: Product specifications document, 2018{\natexlab{e}}.
+\newblock URL
+  \url{https://land.copernicus.eu/pan-european/high-resolution-layers/water-wetness/status-maps/2015?tab=metadata}.
+
+\bibitem[Copernicus(2019)]{corine2019}
+Copernicus.
+\newblock Corine land cover dataset, 2019.
+\newblock URL \url{https://land.copernicus.eu/pan-european/corine-land-cover}.
+
+\bibitem[EC-JRC(2019)]{lucas2019}
+EC-JRC.
+\newblock Lucas: Land use and coverage area frame survey, 2019.
+\newblock URL \url{https://esdac.jrc.ec.europa.eu/projects/lucas}.
+
+\bibitem[Government(1986)]{france1986}
+French Government.
+\newblock Loi n$^{\circ}$ 86-2 du 3 janvier 1986 relative \`a l'am\'enagement,
+  la protection et la mise en valeur du littoral, 1986.
+\newblock URL
+  \url{https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000317531&dateTexte=20190705}.
+
+\bibitem[Hansen et~al.(2013)Hansen, Potapov, Moore, Hancher, Turubanova,
+  Tyukavina, Thau, Stehman, Goetz, Loveland, et~al.]{hansen2013high}
+Matthew~C Hansen, Peter~V Potapov, Rebecca Moore, Matt Hancher, SAA Turubanova,
+  Alexandra Tyukavina, David Thau, SV~Stehman, SJ~Goetz, Thomas~R Loveland,
+  et~al.
+\newblock High-resolution global maps of 21st-century forest cover change.
+\newblock \emph{science}, 342\penalty0 (6160):\penalty0 850--853, 2013.
+
+\bibitem[Tamm et~al.(2016)Tamm, Zalite, Voormansik, and
+  Talgre]{tamm2016relating}
+Tanel Tamm, Karlis Zalite, Kaupo Voormansik, and Liina Talgre.
+\newblock Relating sentinel-1 interferometric coherence to maowing events on
+  grasslands.
+\newblock \emph{Remote Sensing}, 8:\penalty0 802--821, 2016.
+
+\end{thebibliography}
